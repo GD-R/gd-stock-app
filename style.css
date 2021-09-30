@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Oldenburg&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Oldenburg', cursive;
+}
+
+h1 , h2 {
+    font-size: 2rem;
+    margin: 1.5rem;
+}
+
+label {
+    display: block;
+    padding: 1rem;
+    font-size: 1.5rem;
+    max-width: 30%;
+    margin: auto;
+}
+
+input {
+    font-size: 1.5rem;
+    display: block;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border-color: turquoise;
+}
+    
+
+button {
+    margin: 1rem;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    font-family: 'Oldenburg', cursive;
+    background-color: turquoise;
+}
+
+
